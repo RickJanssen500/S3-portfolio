@@ -24,5 +24,9 @@ This is my portfolio for S3 software. Here you will find all the evidence for th
     -  7 You analyze and describe simple business processes that are related to your project.
     -  8 You act in a professional manner during software development and learning.
 
+
 ## Individual project
   ### Project description
+For my individual project I am going to make an order picking system. In this system, customers can order products online and order pickers can prepare these orders. For picking the order, the system will create an optimal route so that you only have to go through the shop once. If an item cannot be picked completely, the user will receive an e-mail about the discrepancy.
+
+   ### User Storys
