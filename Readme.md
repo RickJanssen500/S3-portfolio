@@ -31,7 +31,7 @@ For my individual project I am going to make an order picking system. In this sy
 
    ### User Storys
 
-- A **Customer** can create an order.
+- A <strong>Customer</strong> can create an order.
 - A **picker** gets the most efficient route to pick the order.
 - A **picker** has to scan the product to confirm it’s the correct product.
 - A **customer** can set the pickup time.
