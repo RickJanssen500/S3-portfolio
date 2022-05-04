@@ -4,7 +4,7 @@ This is my portfolio for S3 software. Here you will find all the evidence for th
 
 ## index
 
-  - [individual project] (https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#individual-project)
+  [- individual project] (https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#individual-project)
     -  [project description] (https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#project-description)
     -  [User storys] (https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#user-storys)
     -  [Conceptual model] (https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#conceptual-model)
