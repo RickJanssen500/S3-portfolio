@@ -4,13 +4,13 @@ For my individual project I am going to make an order picking system. In this sy
 
    ### User Storys
 
-- As a ***Customer***, I want to create an order so that I can do the grocery shopping online.
-- As a ***picker***, I want to get the most efficient route to pick the order so that I can pick orders fast.
-- As a ***picker***, I want to scan the product to confirm it’s the correct product so that the ***Customer*** gets the right product.
-- As a ***customer***, I want to set the pickup time so that I can pick up my order at a convenient time.
-- As a ***picker***, I want to know at what temperate to store the picked order so that the products do not go bad
-- As a ***picker***, I want to specify the amount I pick of a product, if the amount differs from the order the customer gets a email notification so that ***Customer*** knows something in his order changed.
-- As a ***customer***, I want to get an email confirmation when placing an order so that I know my order is correctly placed.
+- As a ***Customer***, I want to create an order, so that I can do the grocery shopping online.
+- As a ***picker***, I want to get the most efficient route to pick the order, so that I can pick orders fast.
+- As a ***Customer***, I want to be able to remove an item from my order, so that I don't get stuck with wrongly placed items.
+- As a ***customer***, I want to set the pickup time, so that I can pick up my order at a convenient time.
+- As a ***picker***, I want to know at what temperate to store the picked order, so that the products do not go bad.
+- As a ***picker***, I want to specify the amount I pick of a product, if the amount differs from the order the customer gets a email notification, so that ***Customer*** knows something in his order changed.
+- As a ***customer***, I want to get an email confirmation when placing an order, so that I know my order is correctly placed.
 
 ### Conceptual model
 ![conceptueelmodel](https://user-images.githubusercontent.com/84378377/161045845-a38c3aaf-4964-470c-8074-d40073495886.png)
