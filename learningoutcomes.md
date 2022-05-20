@@ -1,6 +1,6 @@
 
 
-##Learning outcomes
+## Learning outcomes
 
    ### 1 You design and build user-friendly, full-stack web applications. IP and GP
    ### 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
