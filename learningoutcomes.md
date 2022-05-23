@@ -106,7 +106,7 @@ The Indulgence dimension is a relatively new dimension to the model. This dimens
    ### 7 You analyze and describe simple business processes that are related to your project. GP only
    
    In our group project we couldn't find a business project we can analyze. So we discussed this problem with our teacher (Marc) and came to the conclusion that we        should analyze any relevant business project. So we as a group analyzed the business process of order picking. Webshops have huge warehouses filled with products that      can be ordered and picked. Advanced algorithm's create picking lists for employees to pick. We visualized this process for multiple reasons. First of all it's Rens his  job. And it was easy for Rens to guide us in analyzing this process. Second of all, I created an order-picking system for my individual project. These two reasons let us to the decision for our business process to analyze. Which is shown below.
-   | <img src="https://user-images.githubusercontent.com/84378377/169816086-8f6a4b9c-7ae7-43ae-bdb1-71b24586a1d8.png" width="1200" height="500" />| 
+   | <img src="https://user-images.githubusercontent.com/84378377/169816086-8f6a4b9c-7ae7-43ae-bdb1-71b24586a1d8.png" width="1500" height="300" />| 
    | :--: |
    | _The Business process we analysed for our project_ |
    
