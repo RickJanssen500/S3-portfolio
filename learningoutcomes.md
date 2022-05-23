@@ -32,18 +32,15 @@ Software engineering consists of subjects outside of coding and documenting. One
 
 #### Ethics
 
-**What is ethics in software engineering?**
-
+**What is ethics in software engineering?**  
 Ethics, as described by Oxford Languages, is a set of moral principles that govern the behaviour of a person or the conduction of an activity. Ethics are used to measure the righteousness of an action, acting as criteria for judging whether something is right or not. In the scope of software engineering, ethics dictate the values a software engineer should adhere to in a professional environment. This includes ethics related to cultural differences, software, source code and communication.
 
-**Why is ethics important in software engineering?** 
-
+**Why is ethics important in software engineering?**   
 Ethics in software engineering can be viewed from multiple perspectives. One of these perspectives is that of the production environment. Another one would be that of the product (and it’s users).
 The ethical values adhered to during the production of a product define the workability and comfortability of the environment. A lack of proper ethical values or a lack of enforcing them will eventually create a working environment where discrimination, bullying, favouritism among other things are allowed. For this reason, it is important for proper, unanimously agreed upon ethical values to be present.
 The ethical values the product adheres to at it’s core define how an application could impact it’s users. An application built with strong ethical values at it’s core should result in a product that will affect users in a positive manner, whereas one that lacks this core may result in the opposite reaction. For this reason, it is important to consider how users could be negatively impacted by something, and what can be done to minimize this reaction.
 
-**What do you have to do as a software engineer to address ethical aspects in your work?**
-
+**What do you have to do as a software engineer to address ethical aspects in your work?**  
 Within the software engineering space, a number of widely used ethical guidelines can be found on the internet. One such guideline is the [ACM Software Engineering Code of Ethics](https://ethics.acm.org/code-of-ethics/software-engineering-code/), which states that software engineers should strife to analyze, design, develop, test and maintain software in a truthful, upfront and professional manner for the better of public health, safety and welfare of humanity, according to the following eight principles: 
 1. PUBLIC – Software engineers shall act consistently with the public interest.
 2. CLIENT AND EMPLOYER – Software engineers shall act in a manner that is in the best interests of their client and employer consistent with the public interest.
@@ -54,31 +51,25 @@ Within the software engineering space, a number of widely used ethical guideline
 7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
 8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
 
-**How do you know that your ethical considerations match with those of other software engineers?**
-
+**How do you know that your ethical considerations match with those of other software engineers?**  
 In order to verify all software engineers ethical values match up, it is important for all parties involved to converse about the topic. Allowing everyone to share their ethical values and boundaries with one another makes it possible to create a working environment in which all parties involved can work comfortably.
 
-**Which ethical aspects play a role in your project?**
-
+**Which ethical aspects play a role in your project?**   
 One of the ethical aspects in our group project that we faced was the licensing of third party libraries(Highcharts). As our project lives in a gray area between commercial and non-profit (the organization is a business, while the application is strictly for internal use without any direct link to generating profit), we considered whether purchasing a license for these libraries would be necessary.
 
-**Do you foresee ethical conflicts caused by your software? What kind of?**  
-
+**Do you foresee ethical conflicts caused by your software? What kind of?**   
 I do not expect any ethical conflicts in our project. Beacause our project displays temparature and humidity levels.
 By just giving a temperature i don't think we will couse any ethical conflicts.
 
-**Can you do something to avoid or minimize these conflicts?** 
-
+**Can you do something to avoid or minimize these conflicts?**  
 Communicating regularly with one another is key in preventing (or solving) conflicts in a professional setting. Expressing one’s concerns and problems spreads awareness to all parties involved and allows them to seek out a solution together. It also minimizes the amount of misunderstandings that could potentially happen.
 
 #### Culture
 
-  **What is culture?** 
-  
+  **What is culture?**   
   "Culture encompasses religion, food, what we wear, how we wear it, our language, marriage, music, what we believe is right or wrong, how we sit at the table, how we greet visitors, how we behave with loved ones and a million other things," - Cristina De Rossi, an anthropologist at Barnet and Southgate College in London.
   
-  **Which are well-known dimensions on cultural differences?**
-  
+  **Which are well-known dimensions on cultural differences?**  
   The 6 well-known culture dimensions of Hofstede are:
   
   - Power distance
@@ -101,16 +92,14 @@ The Indulgence dimension is a relatively new dimension to the model. This dimens
 
 *Source : [Hofstede's cultural dimensions](https://www.business-to-you.com/hofstedes-cultural-dimensions/)*
   
-  **Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?**
-  
+  **Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?**  
   I have been on a holiday in India. Where we(Dutch) just shake hands to greet each other, the Indians bow to each other and only shake hands with their best friend.
   This comes from their religion because they also greet God in this way and they have adopted it in their daily lives instead of shaking hands as we do.
   
-  **What is your culture?**
-  
+  **What is your culture?**  
    nog invullen
-  **What did you do to improve the group communications with respect to cultural differences?** 
-  
+   
+  **What did you do to improve the group communications with respect to cultural differences?**  
    Nothing?
 
    ### 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only
