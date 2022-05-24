@@ -137,8 +137,10 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    we try to plan a meeting every week to achieve this. Because we have a weekly meeting, we quickly notice if we deviate from the customer's expectations.   
    
    For the group project, I made a design for the dashboard. In the first design, I also included the maximum and minimum temperature and humidity.
-   I presented this to the group members and the client. with the feedback I received on this,
-   I modified the design and then asked for feedback on this again from both group members and the client.
+   I presented this to the group members and the client. 
+   with the feedback I received on this, 
+   So the client didn't want a max/min temperature and humidity on the sreen. He want to focus on a temperatur/humidity on specific locations.
+   I modified the design and then asked for feedback on this again from both group members and the client. 
    Until we had come to the final design. with which the client is happy. 
 
 
