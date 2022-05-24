@@ -135,6 +135,7 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    ## 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only  
    In our group project we try to get as much feedback from the client, so we stay on track with the cumstomers expectations. 
    we try to plan a meeting every week to achieve this. Because we have a weekly meeting, we quickly notice if we deviate from the customer's expectations.   
+   
    For the group project, I made a design for the dashboard. In the first design, I also included the maximum and minimum temperature and humidity.
    I presented this to the group members and the client. with the feedback I received on this,
    I modified the design and then asked for feedback on this again from both group members and the client.
