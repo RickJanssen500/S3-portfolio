@@ -2,9 +2,9 @@
 
 ## Learning outcomes
 
-   ### 1 You design and build user-friendly, full-stack web applications. IP and GP
-   ### 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
-   ### 3 You choose and implement the most suitable agile software development method for your software project. GP only
+   ## 1 You design and build user-friendly, full-stack web applications. IP and GP
+   ## 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
+   ## 3 You choose and implement the most suitable agile software development method for your software project. GP only
    
    We work in an agile process in our group project. Every Day we start with the daily stand-up, mostly around 09:30 becouse the group is complete by then.
    Here we will discuss what everyone has been/will be doing for the day and where we currently stand in the project and what still needs to be done this sprint.
@@ -25,8 +25,8 @@ We then adapt our working methods to the findings of the retrospective.
 | :--: |
 | _The scrum workflow we apply in our project_ |
    
-   ### 4 You design and implement a (semi)automated software release process that matches the needs of the project context. IP only
-   ### 5 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development. GP only
+   ## 4 You design and implement a (semi)automated software release process that matches the needs of the project context. IP only
+   ## 5 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development. GP only
    
 Software engineering consists of subjects outside of coding and documenting.
 One such subject is the cultural and ethical values that play a role in a professional environment, 
@@ -132,8 +132,8 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
   **What did you do to improve the group communications with respect to cultural differences?**  
    We all share the same culture, so we didn't need to adapt to each other. We sometimes switch language from Dutch to english because it's better for some of us.
 
-   ### 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only
-   ### 7 You analyze and describe simple business processes that are related to your project. GP only
+   ## 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only
+   ## 7 You analyze and describe simple business processes that are related to your project. GP only
    
    In our group project we couldn't find a business project we can analyze. So we discussed this problem with our teacher (Marc) and came to the conclusion that we
    should analyze any relevant business project. So we as a group analyzed the business process of order picking. Webshops have huge warehouses filled with products that 
@@ -148,5 +148,5 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    We choose to keep it simple and clear. As a group we set down and discussed the process until
    we all had a clear view of the process and everyone shared the same opinion. 
      
-   ### 8 You act in a professional manner during software development and learning. IP and GP
+   ## 8 You act in a professional manner during software development and learning. IP and GP
 
