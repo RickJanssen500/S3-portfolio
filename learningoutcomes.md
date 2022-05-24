@@ -132,7 +132,32 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
   **What did you do to improve the group communications with respect to cultural differences?**  
    We all share the same culture, so we didn't need to adapt to each other. We sometimes switch language from Dutch to english because it's better for some of us.
 
-   ## 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only
+   ## 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only  
+   In our group project we try to get as much feedback from the client, so we stay on track with the cumstomers expectations. 
+   we try to plan a meeting every week to achieve this. Because we have a weekly meeting, we quickly notice if we deviate from the customer's expectations.   
+   For the group project, I made a design for the dashboard. In the first design, I also included the maximum and minimum temperature and humidity.
+   I presented this to the group members and the client. with the feedback I received on this,
+   I modified the design and then asked for feedback on this again from both group members and the client.
+   Until we had come to the final design. with which the client is happy. 
+
+
+   | <img src="https://user-images.githubusercontent.com/84378377/170023857-af6d8429-8a90-4b6c-9156-2f0b51c8b015.png" width="640" height="360" />| 
+   | :--: |
+   | _First dashboard design_ |
+   
+   | <img src="https://user-images.githubusercontent.com/84378377/170024926-e87c7718-98fc-4826-a4ca-99ea7443b6b9.png" width="640" height="360" />| 
+   | :--: |
+   | _Final dashboard design_ |
+   
+   For the temperature legend, I came up with the 2 different ways.   
+   The first way is that the min and max values move with the min and max of the data on the current map.
+   In the second way the legend min and max have a fixed value so the contrast gets less but the contrast stays the same at different times.
+   After presenting this choice to the customer, the customer chose the second way. 
+   
+   | <img src="https://user-images.githubusercontent.com/84378377/170029262-3282744a-0d85-4711-abb0-c3f17206d8ea.png" width="131" height="34" />| 
+   | :--: |
+   | _Temperature legend_ |
+
    ## 7 You analyze and describe simple business processes that are related to your project. GP only
    
    In our group project we couldn't find a business project we can analyze. So we discussed this problem with our teacher (Marc) and came to the conclusion that we
