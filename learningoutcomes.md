@@ -157,7 +157,7 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    In the second way the legend min and max have a fixed value so the contrast gets less but the contrast stays the same at different times.
    After presenting this choice to the customer, the customer chose the second way. 
    
-   | <img src="https://user-images.githubusercontent.com/84378377/170029262-3282744a-0d85-4711-abb0-c3f17206d8ea.png" width="131" height="34" />| 
+   | <img src="https://user-images.githubusercontent.com/84378377/170029262-3282744a-0d85-4711-abb0-c3f17206d8ea.png" width="262" height="67" />| 
    | :--: |
    | _Temperature legend_ |
 
