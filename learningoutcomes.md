@@ -67,7 +67,7 @@ Communicating regularly with one another is key in preventing (or solving) confl
 #### Culture
 
   **What is culture?**   
-  "Culture encompasses religion, food, what we wear, how we wear it, our language, marriage, music, what we believe is right or wrong, how we sit at the table, how we greet visitors, how we behave with loved ones and a million other things," - Cristina De Rossi, an anthropologist at Barnet and Southgate College in London.
+  *"Culture encompasses religion, food, what we wear, how we wear it, our language, marriage, music, what we believe is right or wrong, how we sit at the table, how we greet visitors, how we behave with loved ones and a million other things,"* - Cristina De Rossi, an anthropologist at Barnet and Southgate College in London.
   
   **Which are well-known dimensions on cultural differences?**  
   The 6 well-known culture dimensions of Hofstede are:
