@@ -75,7 +75,7 @@ we considered whether purchasing a license for these libraries would be necessar
 
 **Do you foresee ethical conflicts caused by your software? What kind of?**   
 I do not expect any ethical conflicts in our project. Beacause our project displays temparature and humidity levels.
-By just giving a temperature i don't think we will couse any ethical conflicts.
+By just giving a temperature i don't think we will cause any ethical conflicts.
 
 **Can you do something to avoid or minimize these conflicts?**  
 Communicating regularly with one another is key in preventing (or solving) conflicts in a professional setting.
