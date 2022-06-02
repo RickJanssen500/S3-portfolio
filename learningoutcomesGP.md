@@ -7,13 +7,13 @@
    
       In [LO6](https://github.com/RickJanssen500/S3-portfolio/blob/main/learningoutcomesGP.md#6-you-analyze-non-functional-requirements-elaborate-architectural-designs-and-validate-them-using-multiple-types-of-test-techniques-gp-only) I show a few design choices about making the views user-friendly.
       For the frontend I installed the css-framework bootstrap, and made sure every element uses the correct styling.
-      By using bootstrap the styling looks good and is user-friendly because it wil automaticly scale to the device's screen.
+      By using bootstrap the styling looks good and is user-friendly because it will automatically scale to the device's screen.
       | ![image](https://user-images.githubusercontent.com/84378377/171585887-49c49364-6770-4d31-834e-525beb640569.png) | 
       | :--: |
       | _Our bootstrap button bar_ |   
       
-      To let the user know something went wrong or cann't be done, I made multiple (error) message's.
-      So the user knows what happend. below I will show you the 2 tipe's of messages I created.
+      To let the user know something went wrong or can't be done, I made multiple (error) message's.
+      So the user knows what happened. below I will show you the 2 type's of messages I created.
       | ![image](https://user-images.githubusercontent.com/84378377/171587561-a9c6073f-87d9-49fe-8a80-ef8d251de7b7.png) | 
       | :--: |
       | _no data error_ |  
@@ -25,20 +25,20 @@
       | _trying out the future message_ |    
       
       This message shows that the time the user selected is in the future, 
-      the system automaticly changed the dat/Time to the now posistion and shows the user the messsage as shown up here. 
+      the system automatically changed the date/Time to the now position and shows the user the message as shown up here. 
       
       For the error message above I wrote a function that checks if the date is in the future. 
-      If this is the case it wil set the time/date to now and show the user the message.
+      If this is the case it will set the time/date to now and show the user the message.
       If the time is not in the future this function make sure the message is not shown to the user anymore   
       | ![image](https://user-images.githubusercontent.com/84378377/171589348-f6ca2344-fe25-4262-aca1-5c8a1e046972.png) | 
       | :--: |
       | _Time in future function_ |  
          
    
-      For the appilication I made the heatmap using Highchart. I set everything up so the data would be displayed in the right color and in the right position in the map.
+      For the application I made the heatmap using Highchart. I set everything up so the data would be displayed in the right color and in the right position in the map.
       
       
-      In the frontend I added architecture by making seperated files for the Javascript and CSS instead of having them inline in the html.
+      In the frontend I added architecture by making separated files for the Javascript and CSS instead of having them inline in the html.
       This gives a better organized view of the frontend.
       | ![image](https://user-images.githubusercontent.com/84378377/171600295-db80247d-9252-40d7-9d59-2151604fb74d.png) | 
       | :--: |
@@ -50,7 +50,7 @@
    
    We work in an agile process in our group project. Every Day we start with the daily stand-up, mostly around 09:30 because the group is complete by then.
    Here we will discuss what everyone has been/will be doing for the day and where we currently stand in the project and what still needs to be done this sprint.
-   We will take a look at our notion board and look who is assigned to which task. If somebody isn't assigned to any task, we deside to which task he will we assigned to.
+   We will take a look at our notion board and look who is assigned to which task. If somebody isn't assigned to any task, we decide to which task he will we assigned to.
    At the end of the day we have a daily stand-down. Here we will discuss how everything went this day and the progress everyone booked.
    Sometimes we also have meetings before or after lunch break to make sure everyone can keep working and won't get stuck add a problem.
 | <img src="https://user-images.githubusercontent.com/58734636/164235377-e98aad38-8905-4ecb-aa04-9e9170b56239.png" width="700" height="600" />| 
@@ -116,7 +116,7 @@ As our project lives in a gray area between commercial and non-profit
 we considered whether purchasing a license for these libraries would be necessary.
 
 **Do you foresee ethical conflicts caused by your software? What kind of?**   
-I do not expect any ethical conflicts in our project. Beacause our project displays temparature and humidity levels.
+I do not expect any ethical conflicts in our project. Because our project displays temperature and humidity levels.
 By just giving a temperature I don't think we will cause any ethical conflicts.
 
 **Can you do something to avoid or minimize these conflicts?**  
@@ -181,7 +181,7 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    For the group project, I made a design for the dashboard. In the first design, I also included the maximum and minimum temperature and humidity.
    I presented this to the group members and the client. 
    with the feedback I received on this, 
-   So the client didn't want a max/min temperature and humidity on the sreen. He want to focus on a temperatur/humidity on specific locations.
+   So the client didn't want a max/min temperature and humidity on the screen. He want to focus on a temperature/humidity on specific locations.
    I modified the design and then asked for feedback on this again from both group members and the client. 
    Until we had come to the final design. with which the client is happy. 
 
@@ -223,14 +223,14 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    As seen in [LO3](https://github.com/RickJanssen500/S3-portfolio/blob/main/learningoutcomesGP.md#3-you-choose-and-implement-the-most-suitable-agile-software-development-method-for-your-software-project-gp-only), we use the scrum methodology as we hold daily stand-ups, stand-downs, sprint reviews, sprint retrospective etc.
 
    I always try to communicate professionally and in a timely manner with my group members, as well as with the product owners.
-   If my train is delayed I will let my groupmembers know I will be a bit later. 
+   If my train is delayed I will let my group members know I will be a bit later. 
    I'll do this via Whatsapp because this is a fast way to communicate with my group members in case something like this happens.
 
-   If we know a groupmember can't make it to school, we wil do the meeting in Discord so everyone is able to participate in the standup/standdown.
+   If we know a group member can't make it to school, we will do the meeting in Discord so everyone is able to participate in the standup/standdown.
    So they will still be able to track our progress as well as share their own.
 
    In the earlier meetings I did not talk a lot during meetings with the stakeholder. 
    While we were trying to switch between who leads the meeting, Rens would be the meeting leader most of the time.
    During one week of the semester Rens was on holiday during a meeting with our stakeholder, This forced me to take a more leading role in the meeting.
-   Since this meeting I have been more active in the meetings, with showing our work and dicussing with the stakeholder.
+   Since this meeting I have been more active in the meetings, with showing our work and discussing with the stakeholder.
 
