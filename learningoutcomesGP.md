@@ -5,7 +5,7 @@
    ## 1 You design and build user-friendly, full-stack web applications. IP and GP
    - User-friendly  
    
-      In LO6 I show a few design choices about making the views user-friendly.
+      In [LO6](https://github.com/RickJanssen500/S3-portfolio/main/learningoutcomesGP.md#6-you-analyze-non-functional-requirements-elaborate-architectural-designs-and-validate-them-using-multiple-types-of-test-techniques-gp-only) I show a few design choices about making the views user-friendly.
       For the frontend I installed the css-framework bootstrap, and made sure every element uses the correct styling.
       By using bootstrap the styling looks good and is user-friendly because it wil automaticly scale to the device's screen.
       | ![image](https://user-images.githubusercontent.com/84378377/171585887-49c49364-6770-4d31-834e-525beb640569.png) | 
@@ -214,7 +214,7 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
      
    ## 8 You act in a professional manner during software development and learning. IP and GP
    
-   As seen in LO3, we use the scrum methodology as we hold daily stand-ups, stand-downs, sprint reviews, sprint retrospective etc.
+   As seen in [LO3](https://github.com/RickJanssen500/S3-portfolio/main/learningoutcomesGP.md#3-you-choose-and-implement-the-most-suitable-agile-software-development-method-for-your-software-project-gp-only), we use the scrum methodology as we hold daily stand-ups, stand-downs, sprint reviews, sprint retrospective etc.
 
    I always try to communicate professionally and in a timely manner with my group members, as well as with the product owners.
    If my train is delayed I will let my groupmembers know I will be a bit later. 
