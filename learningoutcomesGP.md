@@ -3,7 +3,7 @@
 ## Learning outcomes
 
    ## 1 You design and build user-friendly, full-stack web applications. IP and GP
-   - User-friendly  
+   - User-friendly and full-stack  
    
       In [LO6](https://github.com/RickJanssen500/S3-portfolio/blob/main/learningoutcomesGP.md#6-you-analyze-non-functional-requirements-elaborate-architectural-designs-and-validate-them-using-multiple-types-of-test-techniques-gp-only) I show a few design choices about making the views user-friendly.
       For the frontend I installed the css-framework bootstrap, and made sure every element uses the correct styling.
@@ -25,11 +25,7 @@
       | _trying out the future message_ |    
       
       This message shows that the time the user selected is in the future, 
-      the system automaticly changed the dat/Time to the now posistion and shows the user the messsage as shown up here.   
-        
-      ### - Full-stack  
-   
-      For the appilication I made the heatmap using Highchart. I set everything up so the data would be displayed in the right color and in the right position in the map.
+      the system automaticly changed the dat/Time to the now posistion and shows the user the messsage as shown up here. 
       
       For the error message above I wrote a function that checks if the date is in the future. 
       If this is the case it wil set the time/date to now and show the user the message.
@@ -37,6 +33,16 @@
       | ![image](https://user-images.githubusercontent.com/84378377/171589348-f6ca2344-fe25-4262-aca1-5c8a1e046972.png) | 
       | :--: |
       | _Time in future function_ |  
+         
+   
+      For the appilication I made the heatmap using Highchart. I set everything up so the data would be displayed in the right color and in the right position in the map.
+      
+      
+      In the frontend I added architecture by making seperated files for the Javascript and CSS instead of having them inline in the html.
+      This gives a better organized view of the frontend.
+      | ![image](https://user-images.githubusercontent.com/84378377/171600295-db80247d-9252-40d7-9d59-2151604fb74d.png) | 
+      | :--: |
+      | _Frontend architecture_ | 
       
       
       
