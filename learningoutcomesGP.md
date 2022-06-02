@@ -3,7 +3,6 @@
 ## Learning outcomes
 
    ## 1 You design and build user-friendly, full-stack web applications. IP and GP
-   ## 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
    ## 3 You choose and implement the most suitable agile software development method for your software project. GP only
    
    We work in an agile process in our group project. Every Day we start with the daily stand-up, mostly around 09:30 because the group is complete by then.
@@ -25,7 +24,7 @@ We then adapt our working methods to the findings of the retrospective.
 | :--: |
 | _The scrum workflow we apply in our project_ |
    
-   ## 4 You design and implement a (semi)automated software release process that matches the needs of the project context. IP only
+
    ## 5 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development. GP only
    
 Software engineering consists of subjects outside of coding and documenting.
