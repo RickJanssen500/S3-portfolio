@@ -3,6 +3,43 @@
 ## Learning outcomes
 
    ## 1 You design and build user-friendly, full-stack web applications. IP and GP
+   - User-friendly  
+   
+      In LO6 I show a few design choices about making the views user-friendly.
+      For the frontend I installed the css-framework bootstrap, and made sure every element uses the correct styling.
+      By using bootstrap the styling looks good and is user-friendly because it wil automaticly scale to the device's screen.
+      | ![image](https://user-images.githubusercontent.com/84378377/171585887-49c49364-6770-4d31-834e-525beb640569.png) | 
+      | :--: |
+      | _Our bootstrap button bar_ |   
+      
+      To let the user know something went wrong or cann't be done, I made multiple (error) message's.
+      So the user knows what happend. below I will show you the 2 tipe's of messages I created.
+      | ![image](https://user-images.githubusercontent.com/84378377/171587561-a9c6073f-87d9-49fe-8a80-ef8d251de7b7.png) | 
+      | :--: |
+      | _no data error_ |  
+      
+      This error Shows there is no data for the selected date and/or the selected floor. So the user will know it needs to change there settings to see data.   
+      
+      | ![image](https://user-images.githubusercontent.com/84378377/171587656-f16ce233-ca3f-4b79-b88d-9b8a8c5798f7.png) | 
+      | :--: |
+      | _trying out the future message_ |    
+      
+      This message shows that the time the user selected is in the future, 
+      the system automaticly changed the dat/Time to the now posistion and shows the user the messsage as shown up here.   
+        
+      ### - Full-stack  
+   
+      For the appilication I made the heatmap using Highchart. I set everything up so the data would be displayed in the right color and in the right position in the map.
+      
+      For the error message above I wrote a function that checks if the date is in the future. 
+      If this is the case it wil set the time/date to now and show the user the message.
+      If the time is not in the future this function make sure the message is not shown to the user anymore   
+      | ![image](https://user-images.githubusercontent.com/84378377/171589348-f6ca2344-fe25-4262-aca1-5c8a1e046972.png) | 
+      | :--: |
+      | _Time in future function_ |  
+      
+      
+      
    ## 3 You choose and implement the most suitable agile software development method for your software project. GP only
    
    We work in an agile process in our group project. Every Day we start with the daily stand-up, mostly around 09:30 because the group is complete by then.
@@ -176,4 +213,18 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    we all had a clear view of the process and everyone shared the same opinion. 
      
    ## 8 You act in a professional manner during software development and learning. IP and GP
+   
+   As seen in LO3, we use the scrum methodology as we hold daily stand-ups, stand-downs, sprint reviews, sprint retrospective etc.
+
+   I always try to communicate professionally and in a timely manner with my group members, as well as with the product owners.
+   If my train is delayed I will let my groupmembers know I will be a bit later. 
+   I'll do this via Whatsapp because this is a fast way to communicate with my group members in case something like this happens.
+
+   If we know a groupmember can't make it to school, we wil do the meeting in Discord so everyone is able to participate in the standup/standdown.
+   So they will still be able to track our progress as well as share their own.
+
+   In the earlier meetings I did not talk a lot during meetings with the stakeholder. 
+   While we were trying to switch between who leads the meeting, Rens would be the meeting leader most of the time.
+   During one week of the semester Rens was on holiday during a meeting with our stakeholder, This forced me to take a more leading role in the meeting.
+   Since this meeting I have been more active in the meetings, with showing our work and dicussing with the stakeholder.
 
