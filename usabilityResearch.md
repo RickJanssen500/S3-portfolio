@@ -1,5 +1,26 @@
 # hoe kan ik de usability van mijn app verhogen?
 ## Inhoudsopgave
+
+- [Inleiding](#inleiding)
+- [Hoe laat je artikelvoorraad het best zien?](#hoe-laat-je-artikelvoorraad-het-best-zien)
+  * [hoe doen andere het?](#hoe-doen-andere-het)
+    + [Coolblue](#coolblue)
+    + [Bol.com](#bolcom)
+    + [Etrias](#etrias)
+    + [Hema](#hema)
+  * [Mogelijke aanpassingen voor mijn Appilicatie](#mogelijke-aanpassingen-voor-mijn-appilicatie)
+    + [Wat vindt het testpanel van Mogelijke opties?](#wat-vindt-het-testpanel-van-mogelijke-opties)
+- [Hoe laat je winkelwageninhoud het best zien?](#hoe-laat-je-winkelwageninhoud-het-best-zien)
+  * [hoe doen andere het?](#hoe-doen-andere-het-1)
+    + [Coolblue](#coolblue-1)
+    + [Bol.com](#bolcom-1)
+    + [Etrias](#etrias-1)
+    + [Hema](#hema-1)
+  * [Mogelijke aanpassingen voor mijn Appilicatie](#mogelijke-aanpassingen-voor-mijn-appilicatie-1)
+    + [Wat vindt het testpanel van Mogelijke opties?](#wat-vindt-het-testpanel-van-mogelijke-opties-1)
+- [Conclusie](#conclusie)
+- [bronnen](#bronnen)
+
 ## Inleiding
 In een feedback gepsrek met een van mijn docenten kreeg ik als feedback punt dat mijn usability niet overal even goed is.
 Dit komt doordat de gebruiker niet duidelijk geinformeerd word over waarom hij een bepaalde hadeling niet kan doen.
@@ -29,15 +50,36 @@ Bij Bol.com heb ik een paar honderd TP-Link TL-SG105 proberen te bestellen, toen
 
 In deze melding geeft Bol.com aan om welk product in je winkelwagentje gaat.
 Hierin geven ze aan het gewenste aantal niet op voorraad te hebben waardoor de levertijd langer wordt. Ook geven ze hun huidige voorraad(in dit geval 45) als advies aantal om de gewoone levertijd te behouden.
+
 #### Etrias
-#### Hema
-### Wat vindt het testpanel van Mogelijke opties?
+Bij Etrias heb ik 100 tennisballen proberen te bestellen. Op het moment dat ik dit invul laat hij dit aantal staan en geeft hij een melding.
+| ![product etrias](https://user-images.githubusercontent.com/84378377/171806678-ea9321a2-2e09-439e-aa58-0cf36b62351a.png) |
+| :--: |
+| Melding van Etrias |
+
+In deze melding geven ze aan de gebruiker niet aan wat er niet klopt ze zeggen alleen bad request. De gebruiker weet dus niet precies wat er aan de hand is.
+Op het moment dat je doorgaat naar de bestel pagina zal hij het bestelde aantal aanpassen naar de aanwezige voorraad, echter laat hij dit niet aan de gebruiker weten.
+Als je dit als gebruiker niet controleert denk je dat je er meer besteld dan dat je daadwerkelijk krijgt.
+
+#### Hema  
+Bij de Hema heb ik veel zwembroeken proberen te bestellen, echter lukte dit niet omdat de input begrensd is op de artikel voorraad.
+Dit is de eerste site waarbij de input een hoger aantal niet toelaat de andere site's kun je alles invullen.
+| ![product hema](https://user-images.githubusercontent.com/84378377/171809187-60ffd5d7-0b49-4938-8a6f-8da246b8033e.png) |
+| :--: |
+| Melding van Hema |
+
+De melding geeft duidelijk aan dat ik maar 3 van dit artikel kan bestellen waardoor ik als gebruiker snap waarom ik er maar 3 kanninvullen in het aantal vak.
+
+### Mogelijke aanpassingen voor mijn Appilicatie
+
+#### Wat vindt het testpanel van Mogelijke opties?
 ## Hoe laat je winkelwageninhoud het best zien?
 ### hoe doen andere het?
 #### Coolblue
 #### Bol.com
 #### Etrias
 #### Hema
-### Wat vindt het testpanel van Mogelijke opties?
+### Mogelijke aanpassingen voor mijn Appilicatie
+#### Wat vindt het testpanel van Mogelijke opties?
 ## Conclusie
 ## bronnen
