@@ -169,7 +169,7 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
   This comes from their religion because they also greet God in this way and they have adopted it in their daily lives instead of shaking hands as we do.
   
   **What is your culture?**  
-   nog invullen
+   I think I just have a Dutch culture.
    
   **What did you do to improve the group communications with respect to cultural differences?**  
    We all share the same culture, so we didn't need to adapt to each other. We sometimes switch language from Dutch to english because it's better for some of us.
