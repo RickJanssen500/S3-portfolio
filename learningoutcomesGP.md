@@ -216,7 +216,10 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    
    We made the process in Engage Process Modeler, because we used this tool before in S1.
    We choose to keep it simple and clear. As a group we set down and discussed the process until
-   we all had a clear view of the process and everyone shared the same opinion. 
+   we all had a clear view of the process and everyone shared the same opinion.
+   
+   It's very usefull to make a business process, so you know what the excact process and rpbole to solve
+   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
      
    ## 8 You act in a professional manner during software development and learning. IP and GP
    
