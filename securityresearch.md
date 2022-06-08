@@ -13,9 +13,6 @@
 - [Rol verdelingen?](#rol-verdelingen)
   * [Auth0](#auth0-2)
   * [FusionAuth](#fusionauth-2)
-- [Hoe integreren in app?](#hoe-integreren-in-app)
-  * [Auth0](#auth0-3)
-  * [FusionAuth](#fusionauth-3)
 - [Conclusie](#conclusie)
 
 # Introductie  
@@ -102,15 +99,5 @@ Om zo te zorgen dat ze de juiste rechten hebben.
 ## Auth0   
 Je kunt zelf verschillende rollen maken. Je kunt er hiervan zoveel maken als je zelf wilt en per rol zelf alle permissies instellen.   
 Ook kun je per gebruiker permissies instellen, zo kun je een gebruiker een paar extra premissies geven naast hun rol. of juist minder rechten geven.   
-
-## FusionAuth   
-
-# Hoe integreren in app?   
-Naast dat de service voor authenticatie en autorisatie moet zorgen moet het voor developers ook makkelijk zijn om de service te inteplementer en te onderhouden.   
-Zodat het toevoegen van extra/nieuwe veligigere manieren van inloggen en rechten makkelijk kan geboeren.   
-Zodat de appilicatie altijd de maximale en moedernste beveiliging geniet.  
-
-## Auth0
-## FusionAuth   
-
+   
 # Conclusie   
