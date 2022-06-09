@@ -1,6 +1,15 @@
 ## Individual project
   ### Project description
-For my individual project I am going to make an order picking system. In this system, customers can order products online and order pickers can prepare these orders. For picking the order, the system will create an optimal route so that you only have to go through the shop once. If an item cannot be picked completely, the user will receive an e-mail about the discrepancy.
+For my individual project I am going to make an order picking system. In this system, customers can order products online and order pickers can prepare these orders. For picking the order, the system will create an optimal route so that you only have to go through the shop once. If an item cannot be picked completely, the user will receive an e-mail about the discrepancy.   
+   
+   ### Tech choices   
+   I made the folowing choices to make my project in.   
+   - ASP.net - backend   
+      I chose ASP.net because I have experience with c# and asp.net
+   - Vue.js - Frontend
+      I chose Vue.js because it is a modern framework and fellow students recommended it to me.   
+   - Xamarin - Frontend
+      I have chosen Xamarin as my second frontend because I already have experience with Xamarin from semester 2.
 
    ### User Storys
 
