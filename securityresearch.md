@@ -14,6 +14,7 @@
   * [Auth0](#auth0-2)
   * [FusionAuth](#fusionauth-2)
 - [Conclusie](#conclusie)
+- [Bronnen](#bronnen)
 
 # Introductie  
 Voor mijn security onderzoek wist ik in eerste instantie niet wat ik hier voor moest kiezen.
@@ -115,3 +116,19 @@ Ook kun je bij de user instellingen alleen rollen toewijzen en geen losse permis
 Dit kan erg onhandig zijn als je een bepaalde gebruiker iets meer of minder rechten wil geven.   
    
 # Conclusie   
+Ik kan voor dit onderzoek meerdere conclusies trekken.   
+Een van deze conclusies is dat je niet altijd moet kijken naar hoe de website eruit ziet.   
+Zo zag de website van FusionAuth er erg modern en betrouwbaar uit, maaar hier bleek in het onderzoek weinig van het beloofde terecht te komen.   
+De andere conclusie is dat ik voor mijn appilicatie het beste Auth0 kan gebruiken.   
+Dit aangezien er hier veel manieren van party services en veel MFA optie's zijn.  
+Dit is voor mijn projecct belangrijk omdat ik wil dat gebruikers met het grootste gemak kunnen inloggen terwijl het toch goed beveiligd is door MFA.  
+Daarnaast wil ik dat er meerdere passende rollen en permissies zijn, ook hierin voorziet Auth0 het beste met zowel rollen als permissies op gebruikers niveau.
+Dus Auth0 is de beste optie voor authenticatie en autorisatie binnen mijn appilicatie.
+   
+# Bronnen   
+
+  - [Auth0](https://auth0.com/)
+  - [FusionAuth](https://fusionauth.io/)
+  - [OneLogin](https://developers.onelogin.com/)
+  - [Okta](https://www.okta.com)
+  - [Keycloak](https://www.keycloak.org/)   
