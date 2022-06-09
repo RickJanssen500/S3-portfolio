@@ -116,7 +116,7 @@ Dus het artikel aantal altijd in beeld en bij overschreiden de rode error weerge
 ### Wat vindt het testpanel van Mogelijke opties?
 # Conclusie
 # bronnen   
- - [Coolblue](coolblue.nl)
- - [Bol.com](bol.com)
- - [Etrias](etrias.nl)
- - [Hema](hema.nl)
+ - [Coolblue](https://www.coolblue.nl/)
+ - [Bol.com](https://www.bol.com/nl/nl/)
+ - [Etrias](https://www.etrias.nl/)
+ - [Hema](https://www.hema.nl/)
