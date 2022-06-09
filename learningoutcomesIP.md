@@ -3,31 +3,86 @@
    The design and tech choises for my project can be found [here](https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#individual-project).   
       
    ### backend   
-   hier komet dat 1 be net 5 en 1 net 6.   
-   met srceenshot van controller en swagger.  
+   In my backend I have created 2 different microservices.   
+   A microservice for making orders and a microservice for picking orders.   
+   The microservices are both written in C#.   
+   The only difference between them is that the order-api was made in .net 5 and the picking-api in .net 6.   
+   In this I noticed little difference from creating the microservices.
+   
    | ![image](https://user-images.githubusercontent.com/84378377/172845739-b77359cb-8732-4d01-ba10-76b762d333fa.png) | 
    | :--: |
-   | _backend controller_ |   
+   | _backend controller_ |     
+      
+   Above is a screenshot from the order controller of the order-api.   
+   The 2 functions you see are the functions to add a product and to submit the order.   
+   Because they are post methods, they only return a status code.   
+   The status code that is returned is determined by the boolean that the BLL function returns back to the controller.   
       
    | ![image](https://user-images.githubusercontent.com/84378377/172845968-02233451-fc2b-4d2f-b6bf-d84b7eb2d164.png) | 
    | :--: |
-   | _backend swagger_ |   
+   | _backend swagger_ |     
+      
+   Here is a screenshot of the order-api.   
+   The api calls are placed in 2 categories.   
+   one for retrieving product informationand one for retrieving and placing order information.   4
+   When placing an order, you do not need to change product information Therefore, there are no calls for this.
       
    | ![image](https://user-images.githubusercontent.com/84378377/172846162-cabd9375-4638-4bd1-b238-e67f501ef3fd.png) | 
    | :--: |
-   | _backend swagger call_ |
+   | _backend swagger call_ |   
+      
+   When calling an api-call, certain data must be provided.   
+   For example, the product id and the user id must be given in the delete call seen above.   
+   Thus the api knows from which user it should remove which product from the shopping cart.
       
    ### frontend   
-   Vue screen shot mainpage en componenten.TEKST NOG SCHRIJVEN
+   I have created my webshop frontend with javascripframework Vue.   
+   Here you can see all the products and add them to your shopping cart.   
+   Here you can also see how many products you have in your cart and navigate to your cart.
+      
    | ![image](https://user-images.githubusercontent.com/84378377/172843957-fe8b2189-88da-4736-8c62-2331b9d80b15.png) | 
    | :--: |
-   | _Mainview Vue_ |    
+   | _Mainview Vue_ |       
+      
+   The vue pages are made up of components.   
+   Below you can see all the components that the frontend uses.
       
    | ![image](https://user-images.githubusercontent.com/84378377/172845158-b6f3c5fe-84c4-4978-8ea4-362846755362.png) | 
    | :--: |
-   | _Vue component_ | 
+   | _Vue component_ |   
       
-   Mobile app 2 screen shots.
+   The "GetProducts", "SmallProduct" and "ProductAmount" are used for the home page.   
+   The "GetProducts" contains all products, which are displayed by using "SmallProduct".   
+   The "SmallProduct" component contains the "ProductAmount" component that allows the user to add a product to the shopping cart.   
+   The "Cart", "CartItem" and "Complete" are used to view and complete the order.     
+   The "Cart" contains all "CartItem" components.   
+   The "Complete" component is loaded when a user wants to place an order.   
+      
+      
+   For the orderpicking part of my project, I created a Xamarin mobile app as a second frontend.   
+   The app can pick orders and shows notification and errors.   
+      
+   Below is the screen where the user can choose which order to pick.   
+   For each order you see the order id and the date and time when the order will be collected.   
+      
+   | ![image](https://user-images.githubusercontent.com/84378377/172945933-3fe0b734-1758-48af-b085-4878e8695665.png) | 
+   | :--: |
+   | _Orderview_ |      
+      
+   The screen below shows the notification that the app gives when there are no more orders to be collected.
+      
+   | ![image](https://user-images.githubusercontent.com/84378377/172946017-a06fd815-435d-486d-8b1f-3144060ab924.png) | 
+   | :--: |
+   | _No order message_ |     
+      
+   The app can also display several errors. For example, if something goes wrong with making the api call or if the device has no internet.   
+   The screen below shows the error that the app gives when you have no internet.
+   
+   | ![image](https://user-images.githubusercontent.com/84378377/172945902-299726fc-9e08-42f1-bb21-6df1ce4acea3.png) | 
+   | :--: |
+   | _No internet error_ |    
+      
+      
 ## 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
    To ensure the quality of my code, I use testing.
    These tests show that the code does what it is supposed to do. The moment I change the code so that it no longer functions as it should,
