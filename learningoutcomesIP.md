@@ -65,20 +65,20 @@
    Below is the screen where the user can choose which order to pick.   
    For each order you see the order id and the date and time when the order will be collected.   
       
-   | <img src="https://user-images.githubusercontent.com/84378377/172945933-3fe0b734-1758-48af-b085-4878e8695665.png" alt="image" style="max-width: 25%;"> | 
+   | <img src="https://user-images.githubusercontent.com/84378377/172945933-3fe0b734-1758-48af-b085-4878e8695665.png" alt="image" style="max-width: 25%;"/> | 
    | :--: |
    | _Orderview_ |      
       
    The screen below shows the notification that the app gives when there are no more orders to be collected.
       
-   | <img src="https://user-images.githubusercontent.com/84378377/172946017-a06fd815-435d-486d-8b1f-3144060ab924.png" alt="image" style="max-width: 25%;"> | 
+   | <img src="https://user-images.githubusercontent.com/84378377/172946017-a06fd815-435d-486d-8b1f-3144060ab924.png" alt="image" style="max-width: 25%;"/> | 
    | :--: |
    | _No order message_ |     
       
    The app can also display several errors. For example, if something goes wrong with making the api call or if the device has no internet.   
    The screen below shows the error that the app gives when you have no internet.
    
-   | <img src="https://user-images.githubusercontent.com/84378377/172945902-299726fc-9e08-42f1-bb21-6df1ce4acea3.png" alt="image" style="max-width: 25%;"> | 
+   | <img src="https://user-images.githubusercontent.com/84378377/172945902-299726fc-9e08-42f1-bb21-6df1ce4acea3.png" alt="image" style="max-width: 25%;"/> | 
    | :--: |
    | _No internet error_ |    
       
