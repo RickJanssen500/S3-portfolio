@@ -6,9 +6,9 @@ For my individual project I am going to make an order picking system. In this sy
    I made the folowing choices to make my project in.   
    - ASP.net - backend   
       I chose ASP.net because I have experience with c# and asp.net
-   - Vue.js - Frontend
+   - Vue.js - Frontend   
       I chose Vue.js because it is a modern framework and fellow students recommended it to me.   
-   - Xamarin - Frontend
+   - Xamarin - Frontend   
       I have chosen Xamarin as my second frontend because I already have experience with Xamarin from semester 2.
 
    ### User Storys
