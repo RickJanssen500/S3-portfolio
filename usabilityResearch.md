@@ -106,8 +106,15 @@ Zo willen ze dat standaard de artikel voorraad in beeld is en ze een melding kri
 De melding die vanuit hun de voorkeur kreeg was de error message in het rood.   
 Dus het artikel aantal altijd in beeld en bij overschreiden de rode error weergeven.   
 
-# Hoe laat je winkelwageninhoud het best zien?
-## hoe doen andere het?
+# Hoe laat je winkelwageninhoud het best zien?   
+Het tweede usability item dat ik ga onderzoek is de winkelwageninhoud. Op dit moment laat de frontend het aantal verschillende producten zien 
+en niet het totaal aantal artikelen in de winkelwagen.   
+Dit zou voor de gebruiker verwarrend kunne zijn omdat ze nu niet precies weten wat er in de winkelwagen zit.   
+
+## hoe doen andere het?   
+Om te kijken hoe anderen webshops dit deden heb ik van 1 product 2 besteld en van een andere product 3.   
+Toen heb ik gekeken naar het aantal dat bij het winkel wagen staat.   
+
 ### Coolblue
 ### Bol.com
 ### Etrias
