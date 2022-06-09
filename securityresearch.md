@@ -99,5 +99,8 @@ Om zo te zorgen dat ze de juiste rechten hebben.
 ## Auth0   
 Je kunt zelf verschillende rollen maken. Je kunt er hiervan zoveel maken als je zelf wilt en per rol zelf alle permissies instellen.   
 Ook kun je per gebruiker permissies instellen, zo kun je een gebruiker een paar extra premissies geven naast hun rol. of juist minder rechten geven.   
+
+## FusionAuth  
+
    
 # Conclusie   
