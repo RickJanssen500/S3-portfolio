@@ -1,7 +1,33 @@
 ## Learning outcomes
 ## 1 You design and build user-friendly, full-stack web applications. IP and GP   
    The design and tech choises for my project can be found [here](https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#individual-project).   
-   
+      
+   ### backend   
+   hier komet dat 1 be net 5 en 1 net 6.   
+   met srceenshot van controller en swagger.  
+   | ![image](https://user-images.githubusercontent.com/84378377/172845739-b77359cb-8732-4d01-ba10-76b762d333fa.png) | 
+   | :--: |
+   | _backend controller_ |   
+      
+   | ![image](https://user-images.githubusercontent.com/84378377/172845968-02233451-fc2b-4d2f-b6bf-d84b7eb2d164.png) | 
+   | :--: |
+   | _backend swagger_ |   
+      
+   | ![image](https://user-images.githubusercontent.com/84378377/172846162-cabd9375-4638-4bd1-b238-e67f501ef3fd.png) | 
+   | :--: |
+   | _backend swagger call_ |
+      
+   ### frontend   
+   Vue screen shot mainpage en componenten.TEKST NOG SCHRIJVEN
+   | ![image](https://user-images.githubusercontent.com/84378377/172843957-fe8b2189-88da-4736-8c62-2331b9d80b15.png) | 
+   | :--: |
+   | _Mainview Vue_ |    
+      
+   | ![image](https://user-images.githubusercontent.com/84378377/172845158-b6f3c5fe-84c4-4978-8ea4-362846755362.png) | 
+   | :--: |
+   | _Vue component_ | 
+      
+   Mobile app 2 screen shots.
 ## 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
    To ensure the quality of my code, I use testing.
    These tests show that the code does what it is supposed to do. The moment I change the code so that it no longer functions as it should,
