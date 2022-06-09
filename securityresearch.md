@@ -90,7 +90,7 @@ Helaas is hier maar een optie, gebruik maken ven een authenticator app.
 | :--: |
 | _MFA functie FusionAuth_ | 
 
-# Rol verdelingen?   
+# Kan er een goede rol verdelingen gemaakt worden?   
 Naast authenticatie is autorisatie ook belangrijk om de veiligheid van de app te kunnen garanderen.   
 Zo wil je niet dat iedere gebruiker management taken kan uit voeren als het toevoegen en verwijderen van producten/verwerken van bestellingen.   
 Deze taken moeten alleen uitgevoerd worden door een admin of een picker, maar niet door een Normale gebruiker die iets wil bestellen.   
@@ -101,6 +101,17 @@ Je kunt zelf verschillende rollen maken. Je kunt er hiervan zoveel maken als je 
 Ook kun je per gebruiker permissies instellen, zo kun je een gebruiker een paar extra premissies geven naast hun rol. of juist minder rechten geven.   
 
 ## FusionAuth  
-
+Je kunt in FusionAuth een gebruiker verschillende/meerdere rollen geven.   
+De verschillende rollen dier erzijn zijn:   
+ - Admin
+ - Billing manager
+ - Deployment manager
+ - Plan manager
+ - Security manager   
+ 
+Helaas zijn dit de enige rollen en kun je deze zelf niet aanpassen/maken.   
+Je zit hierin dus vast aan de opties die FusionAuth je geeft. een Picker moet bijvoordbeeld de "plan manager" rol krijgen want je kunt de naam en instellingen hiervoor niet veranderen, dit maakt het er onduidelijk.   
+Ook kun je bij de user instellingen alleen rollen toewijzen en geen losse permissies.   
+Dit kan erg onhandig zijn als je een bepaalde gebruiker iets meer of minder rechten wil geven.   
    
 # Conclusie   
