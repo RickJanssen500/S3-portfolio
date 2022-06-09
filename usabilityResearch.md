@@ -26,7 +26,8 @@ In een feedback gepsrek met een van mijn docenten kreeg ik als feedback punt dat
 Dit komt doordat de gebruiker niet duidelijk geinformeerd word over waarom hij een bepaalde hadeling niet kan doen.
 Of dat er een getal in beeld als misleidend kan worden gezien. Na deze feedback te hebben ontvangen ben ik in mijn project een aantal van deze fouten gezocht.
 Om deze punten te verbeteren heb ik eerst gekeken naar hoe andere webshops dit gedaan hebben om de usability voor hun gebruikers te verhogen.
-Ik heb hierin naar 4 verschillende webshops geken om veel verschillende indrukken te krijgen. Deze webshops zijn: Coolblue, Bol.com, Etrias en Hema.
+Ik heb hierin naar 4 verschillende webshops geken om veel verschillende indrukken te krijgen. Deze webshops zijn: Coolblue, Bol.com, Etrias en Hema.   
+Ik heb voor deze webshops gekozen omdat ik hier mee naar verschillende type webshops kijk en naar de grootste.
 Nadat ik dit gedaan heb heb ik in mijn eigen app hier een aantal variaties op gemaakt en aan een testpanel gevraagd wat hun het fijnst vonden.
 In dit onderzoek zal ik ingaan op 2 punten van usability binnen mijn Vue frontend.
 
@@ -115,13 +116,69 @@ Dit zou voor de gebruiker verwarrend kunne zijn omdat ze nu niet precies weten w
 Om te kijken hoe anderen webshops dit deden heb ik van 1 product 2 besteld en van een andere product 3.   
 Toen heb ik gekeken naar het aantal dat bij het winkel wagen staat.   
 
-### Coolblue
-### Bol.com
-### Etrias
-### Hema
-## Mogelijke aanpassingen voor mijn Applicatie
-### Wat vindt het testpanel van Mogelijke opties?
-# Conclusie
+### Coolblue   
+Coolblue laat de het aantal artikelen in het mandje zien en niet het aatal verschillende.  
+
+| ![artikel coolblue](https://user-images.githubusercontent.com/84378377/172831590-30f4efe7-6ec3-47d5-a8b8-45aff2de8dcf.png) |
+| :--: |
+| winkelwagen Coolblue |
+
+### Bol.com   
+Bol.com laat de het aantal artikelen in het mandje zien en niet het aatal verschillende.  
+
+|![artikel bol com](https://user-images.githubusercontent.com/84378377/172832003-382565ef-06a4-4660-9bd7-7d3eb84b99df.png)  |
+| :--: |
+| winkelwagen Bol.com |   
+
+### Etrias   
+Etrias laat de het aantal artikelen in het mandje zien en niet het aatal verschillende.  
+
+| ![artikel etrias](https://user-images.githubusercontent.com/84378377/172832035-8a0427a5-bcfb-4bcc-a3d5-0a60b186ec3f.png) |
+| :--: |
+| winkelwagen Etrias |   
+
+### Hema   
+Hema laat de het aantal artikelen in het mandje zien en niet het aatal verschillende.  
+
+| ![artikel hema 1](https://user-images.githubusercontent.com/84378377/172832056-50375887-4e4b-4e6b-87db-4803bf3d185b.png) |
+| :--: |
+| winkelwagen Hema |   
+   
+| ![artikel hema 2](https://user-images.githubusercontent.com/84378377/172832064-6fe8a766-9433-41c6-9ba4-0fabb81e065d.png) |
+| :--: |
+| winkelwagen aantal Hema |    
+
+## Mogelijke aanpassingen voor mijn Applicatie   
+Alle webshops waar ik naar gekeken heb laten het aantal verschillende artikelen zien en niet het aantal verschillende.   
+   
+| ![artikel](https://user-images.githubusercontent.com/84378377/172834373-d3fb397d-66d8-4a12-954e-056f33ffb735.png) |
+| :--: |
+| origineel winkelwagen aantal |   
+   
+Hier boven zie je het origineel waar ik het aantal verschillende artikelen laat zien.   
+Ik heb dus ook een variatie gemaakt waarin ik het totaal aantal producten lat zien ipv het aantal verschillende.   
+   
+| ![artikel met telsom](https://user-images.githubusercontent.com/84378377/172834380-493957a2-8a2f-4f14-b39c-8048ac698670.png) |
+| :--: |
+| winkelwagen aantal totaal |    
+   
+
+### Wat vindt het testpanel van Mogelijke opties?   
+Toen ik deze mogelijkheden aan het test panel liet zien waren ze redelijk verward dat ik maar 1 voordbeeld alleen het aantal verschillende artikelen liet zien.   
+Hierin is dus al duidelijk dat de testers voor het totaal aantal artikelen gaan. Dit word inderdaad ondersteund door de menig van het panel.
+Hier moet dus de totale aantal artikeln worden laten zien voor de beste usability.
+
+# Conclusie   
+ In dit onderzoek ben ik to de conclusie gekomen dat de usability van mijn website op een aantal punten verbetert kan worden.   
+ Ook niet dat er een goede oplossing is maar ook meer dat er een combinatie van meerdere oplossingen gemaakt kan worden.   
+ De punten die verbetert kunnen worden zijn dan ook:   
+ Het max aantal dat je van een product moet bestellen. Hiervoor wil de klant beter geinformeerd worden door de artikel voorraad altijd in beeld staat.   
+ Hierbij willen ze ook een opvallende error message als dit aantal toch overschreden wordt.   
+ Bij het aantal van de winkel wagen willen ze het totaal aantal artikelen zien en niet het aantal verschillende.   
+ Dit zorgde namelijk voor verwarring.   
+ Door dit onderzoek ben ik naast dat ik een verbeterde ui heb ook beseft dat je op meerdere manieren naar ui schets kan kijken 
+ en dat de oplossing vaak in een combinatie van dit is i.p.v. 1 goede oplossing.
+  
 # bronnen   
  - [Coolblue](https://www.coolblue.nl/)
  - [Bol.com](https://www.bol.com/nl/nl/)
