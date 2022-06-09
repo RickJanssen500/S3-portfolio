@@ -1,5 +1,7 @@
 ## Learning outcomes
-## 1 You design and build user-friendly, full-stack web applications. IP and GP
+## 1 You design and build user-friendly, full-stack web applications. IP and GP   
+   The design and tech choises for my project can be found [here](https://github.com/RickJanssen500/S3-portfolio/blob/main/individual%20project.md#individual-project).   
+   
 ## 2 You use software tooling and methodology that continuously monitors and improve the software quality during software development. IP only
    To ensure the quality of my code, I use testing.
    These tests show that the code does what it is supposed to do. The moment I change the code so that it no longer functions as it should,
@@ -41,6 +43,12 @@
    | ![image](https://user-images.githubusercontent.com/84378377/171642266-51cac506-b028-4a42-a736-15fbaeb74b29.png) | 
    | :--: |
    | _Endpoint test_ |  
+      
+   To make sure my code quality is good I use Sonar Cload code scan to achieve this.   
+   So that I know immediately which code smells are there.   
+   | ![image](https://user-images.githubusercontent.com/84378377/172839466-652290f3-a9fa-4ea0-b244-b76e56ce1936.png) | 
+   | :--: |
+   | _Sonar Cload dashboard_ | 
    
 ## 4 You design and implement a (semi)automated software release process that matches the needs of the project context. IP only
    I implement my CI/CD pipeline using github actions.
@@ -82,8 +90,15 @@
    This is also seen in the action history as the publish succeeded only after several tries.
    | ![image](https://user-images.githubusercontent.com/84378377/171658857-c3fc0a55-fdc6-49fb-8474-218c846acd94.png) | 
    | :--: |
-   | _Action history_ |  
-   
+   | _Action history_ |     
+      
+   I have created a second workflow for the scan of Sonar Cloud.   
+   This is a separate workflow from the workflow above.   
+   This workflow only takes care of the code scan.   
+   | ![image](https://user-images.githubusercontent.com/84378377/172840712-bc2ee289-06bb-4e50-b1cb-a248cb8a6183.png) | 
+   | :--: |
+   | _Sonar Cloud workflow_ | 
+    
 ## 8 You act in a professional manner during software development and learning. IP and GP
    To get feedback from my teachers about my work I try to get a feedback moment every 2 weeks.
    In the start of the semester this wasn't going very well, I had my first feedback moment after 3 weeks into the semester.
@@ -91,7 +106,7 @@
    Now I have at least a feedback moment every 2 weeks and if needed every week.
    One of my teachers(Jean Paul) uses feedpulse to keep track of the feedback moments.
    
-   | ![image](https://user-images.githubusercontent.com/84378377/171630695-99e14d9e-a27b-46de-8e77-f5e6f5df1075.png) | 
+   | ![image](https://user-images.githubusercontent.com/84378377/172840785-f22ae9ab-c5c9-4d8e-b7e2-b2d5d18a30e5.png) | 
    | :--: |
    | _Feedpulse_ |  
    
