@@ -20,7 +20,7 @@
       
    | ![image](https://user-images.githubusercontent.com/84378377/172845968-02233451-fc2b-4d2f-b6bf-d84b7eb2d164.png) | 
    | :--: |
-   | _ Order backend swagger_ |     
+   | _Order backend swagger_ |     
       
    Here is a screenshot of the order-api.   
    The api calls are placed in 2 categories.   
