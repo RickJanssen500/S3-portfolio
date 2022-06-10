@@ -20,12 +20,20 @@
       
    | ![image](https://user-images.githubusercontent.com/84378377/172845968-02233451-fc2b-4d2f-b6bf-d84b7eb2d164.png) | 
    | :--: |
-   | _backend swagger_ |     
+   | _ Order backend swagger_ |     
       
    Here is a screenshot of the order-api.   
    The api calls are placed in 2 categories.   
-   one for retrieving product informationand one for retrieving and placing order information.   4
-   When placing an order, you do not need to change product information Therefore, there are no calls for this.
+   one for retrieving product information and one for retrieving and placing order information.   
+   When placing an order, you do not need to change product information Therefore, there are no calls for this.      
+      
+   | ![image](https://user-images.githubusercontent.com/84378377/173013736-eefbf922-bf49-4515-af7a-329a6482597d.png) | 
+   | :--: |
+   | _Picking backend swagger_ | 
+     
+   Here is a screenshot of the picking-api.   
+   The api calls are placed in 2 categories.   
+   one for retrieving and changing  order-product information and one for retrieving and changing order information.   
       
    | ![image](https://user-images.githubusercontent.com/84378377/172846162-cabd9375-4638-4bd1-b238-e67f501ef3fd.png) | 
    | :--: |
