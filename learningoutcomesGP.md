@@ -172,7 +172,22 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    I think I just have a Dutch culture.
    
   **What did you do to improve the group communications with respect to cultural differences?**  
-   We all share the same culture, so we didn't need to adapt to each other. We sometimes switch language from Dutch to english because it's better for some of us.
+   We all share the same culture, so we didn't need to adapt to each other. We sometimes switch language from Dutch to english because it's better for some of us.   
+      
+   #### Game   
+   Besides answering these questions, I also played the ethics game with some of my group members.
+The game was offered in the Teams channel. I played the game with Maikel, Rens and Liang.     
+These are the scores we achieved at the end of the game:
+
+|    Name    |Score|
+|------------|-----|
+| **Maikel** | 121 |
+| **Rick**   | 114 |
+| **Liang**  | 113 |
+| **Rens**   | 112 |
+
+While answering the questions, we also discussed which answer was better. for example, you would see that for some multiple choice questions,
+everyone had chosen something different. and even after we got the right answer for the question, we would discuss whether the answer was correct.
 
    ## 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only  
    In our group project we try to get as much feedback from the client, so we stay on track with the customers expectations. 
@@ -201,7 +216,9 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    
    | <img src="https://user-images.githubusercontent.com/84378377/170029262-3282744a-0d85-4711-abb0-c3f17206d8ea.png" width="262" height="67" />| 
    | :--: |
-   | _Temperature legend_ |
+   | _Temperature legend_ |    
+      
+
 
    ## 7 You analyze and describe simple business processes that are related to your project. GP only
    
@@ -218,9 +235,11 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
    We choose to keep it simple and clear. As a group we set down and discussed the process until
    we all had a clear view of the process and everyone shared the same opinion.
    
-   It's very usefull to make a business process, so you know what the excact process and rpbole to solve
-   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-     
+   It is very useful to work out a business process because you can see exactly which actions are carried out during the work in a company.   
+   Because you have a clear picture of the process, it is easy to see where the bottlenecks are and how to solve/automate them.    
+   So for my next project, I'm definitely going to make a busine process so that I can immediately see what the process is and where I can improve it.
+      
+      
    ## 8 You act in a professional manner during software development and learning. IP and GP
    
    As seen in [LO3](https://github.com/RickJanssen500/S3-portfolio/blob/main/learningoutcomesGP.md#3-you-choose-and-implement-the-most-suitable-agile-software-development-method-for-your-software-project-gp-only), we use the scrum methodology as we hold daily stand-ups, stand-downs, sprint reviews, sprint retrospective etc.
