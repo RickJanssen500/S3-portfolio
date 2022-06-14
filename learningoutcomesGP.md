@@ -47,21 +47,21 @@
       
       
    ## 3 You choose and implement the most suitable agile software development method for your software project. GP only    
-   there are many ways of working in an agile way.
-   These are some of them:
-    - Kanban
-    - Scrum
-    - Dynamic systems development method (DSDM)
-    - Extreme programming (XP)
-    - Crystal Clear and Other Crystal Methodologies
-    - Agile Modeling
-    - Adaptive Software Development (ASD)
-    - Feature Driven Development (FDD)
-    - Lean software development
-    - Agile Unified Process (AUP)
-    - Scaled Agile Framework (SAFe)
-    - Evolutionary Project Management (EVO)
-    - Large Scale Scrum (LeSS)   
+   there are many ways of working in an agile way.   
+   These are some of them:   
+    + Kanban   
+    + Scrum   
+    + Dynamic systems development method (DSDM)   
+    + Extreme programming (XP)   
+    + Crystal Clear and Other Crystal Methodologies   
+    + Agile Modeling   
+    + Adaptive Software Development (ASD)   
+    + Feature Driven Development (FDD)   
+    + Lean software development   
+    + Agile Unified Process (AUP)   
+    + Scaled Agile Framework (SAFe)   
+    + Evolutionary Project Management (EVO)   
+    + Large Scale Scrum (LeSS)   
        
    With our group, we only knew about one method. 
    This was the SCRUM method. Because we wanted to start our project quickly and did not want to learn a new agile method first, we chose scrum.
