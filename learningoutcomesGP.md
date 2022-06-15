@@ -85,6 +85,9 @@ We then adapt our working methods to the findings of the retrospective.
 | :--: |
 | _The scrum workflow we apply in our project_ |
    
+    
+One of the differences that I noticed with the previous semester is that it is now much more customer-focused than technique-focused.   
+So this is indeed in line with what the teachers say. build the right thing and not build the right thing.
 
    ## 5 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development. GP only
    
@@ -120,7 +123,10 @@ Within the software engineering space, a number of widely used ethical guideline
 5. MANAGEMENT – Software engineering managers and leaders shall subscribe to and promote an ethical approach to the management of software development and      maintenance.
 6. PROFESSION – Software engineers shall advance the integrity and reputation of the profession consistent with the public interest.
 7. COLLEAGUES – Software engineers shall be fair to and supportive of their colleagues.
-8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.
+8. SELF – Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession.   
+   
+When I look at these points, I do not think that one stands out as the most important to me. I think it is the whole package that is important,
+rather than just one point and trying to take all the points into account.
 
 **How do you know that your ethical considerations match with those of other software engineers?**  
 In order to verify all software engineers ethical values match up, it is important for all parties involved to converse about the topic. 
@@ -186,9 +192,7 @@ to enjoying life and having fun. Restraint stands for a society that suppresses 
   I have been on a holiday in India. Where we(Dutch) just shake hands to greet each other, the Indians bow to each other and only shake hands with their best friend.
   This comes from their religion because they also greet God in this way and they have adopted it in their daily lives instead of shaking hands as we do.
   
-  **What is your culture?**  
-   I think I just have a Dutch culture.
-   
+
   **What did you do to improve the group communications with respect to cultural differences?**  
    We all share the same culture, so we didn't need to adapt to each other. We sometimes switch language from Dutch to english because it's better for some of us.   
       
@@ -205,7 +209,44 @@ These are the scores we achieved at the end of the game:
 | **Rens**   | 112 |
 
 While answering the questions, we also discussed which answer was better. for example, you would see that for some multiple choice questions,
-everyone had chosen something different. and even after we got the right answer for the question, we would discuss whether the answer was correct.
+everyone had chosen something different. and even after we got the right answer for the question, we would discuss whether the answer was correct.   
+   
+At the end of the game we got some questions to reflect on the game.   
+I will awnser those below.
+
+   - What insights and learnings did you have while playing the game?
+
+   While playing the game, I found out that in other cultures, rituals and procedures are quite different.   
+   For example, you may think that it was good and clear, while someone from another culture may find it very rude and discomforting.
+
+  - Which of these could you immediately apply to your job or your relationships with others?
+
+   Before I did this quiz, if a vietnamese person were on the phone with me, and they suddenly hang up without saying goodbye,
+   I would assume they were either angry with me or the connection was lost.
+   Now I know that ending a call like that is perfectly normal in Vietnam.
+   
+
+   - How did playing the game bring out the cultural values of the players, e.g., did you compete or collaborate? What kind of culture did your team become?
+
+   We mostly agreed on most questions, but we did have a discussion on the question about your asian coworkers calling you Dr. Kim instead of Dr. Park.   
+   In Asia Surname and last name are flipped, so there last name comes before there firstname. 
+   Not like other parts of the wordl were the firstname comes before the last name.
+   So Liang and I were saying the one is rude because its the surname and Rens and Maikel said the other name was rude because it is the surname.   
+   This was because Maikel and rens didnt know sur and lastname were flipped.
+
+   - What are some consequences you see as a result of playing this game? What next steps will you take?
+
+   In the beginning I thought the differences would not be so bad and everyone had pretty much the same things.   
+   But now I see that there are many differences and I start paying more attention, because something that is normal for me can be very strange for someone else.
+
+   - What would you like to know more about? Are there cards you would like to discuss further?
+
+   I would like to know more things that are considered normal in the Netherlands but could be seen as offensive in other cultures.  
+   For example, I know that the Dutch are often seen as quite direct in their way of communicating. but what are some other things in which we Dutch are different?   
+      
+         
+   It was fun to play the game and discuss it with the group to get a better understanding of how everyone looks at culture.
+
 
    ## 6 You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques. GP only  
    In our group project we try to get as much feedback from the client, so we stay on track with the customers expectations. 
