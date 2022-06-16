@@ -87,7 +87,7 @@ We then adapt our working methods to the findings of the retrospective.
    
     
 One of the differences that I noticed with the previous semester is that it is now much more customer-focused than technique-focused.   
-So this is indeed in line with what the teachers say. build the right thing and not build the right thing.
+So this is indeed in line with what the teachers say. build the right thing and less build the thing right.
 
    ## 5 You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development. GP only
    
